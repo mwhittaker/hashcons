@@ -1,6 +1,6 @@
 # Type-Safe Modular Hash-Consing #
 Minimal working implementation of the hash-consing scheme presented in
-[*Type-Sage Modular Hash-Consing*][paper] by Filliatre and Conchon. To build
+[*Type-Safe Modular Hash-Consing*][paper] by Filliatre and Conchon. To build
 and run the code, simply run the following:
 
 ```bash
